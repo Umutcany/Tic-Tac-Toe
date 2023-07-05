@@ -8,8 +8,7 @@ const startCells = [
 ]
 
 let go = "circle"
-infoDisplay.textContent="İlk Yuvarlak Başlar"
-
+infoDisplay.textContent="İlk Yuvarlak Başlar."
 
 function createBoard() {
 
